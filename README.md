@@ -1,3 +1,3 @@
-# immersive-space-exploration-system
+# Immersive-Space-Exploration-System
 Course Project 
 DES643 (Design for Augmented Reality and Virtual Reality)
